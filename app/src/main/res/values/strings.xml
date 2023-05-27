@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practice 3</string>
+    <string name="fragment_news_label">Fragment with a news list</string>
+</resources>
